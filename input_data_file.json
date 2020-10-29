@@ -1,0 +1,46 @@
+{
+  "Notes": [
+    {
+      "Type": "Template",
+      "Accounting Software": "Template",
+      "Cust No": "100",
+      "Date": "1787, 9, 17",
+      "DFN Name": "",
+      "Note": ""
+    }
+  ],
+  "Settings": [
+    {
+      "sFile": [
+        {
+          "NumLines": "100",
+          "StubLineCount": "15",
+          "OverflowStubLineCount": "15",
+          "Culture": "en-US",
+          "Backup": "false",
+          "NewField": "I am A new Field"
+        }
+      ],
+      "sCheck": [
+        {
+          "DoEnglish": "true",
+          "DefaultAmountSymbol": "true",
+          "AmountSymbol": " ",
+          "EnglishWrapTimes": "2",
+          "EnglishWrapPlace": "70",
+          "ENGLINESALLCAPS": "false",
+          "HideCountryCodeUS": "true"
+        }
+      ],
+      "sStub": [
+        {
+          "DescriptionWrap": "true",
+          "DescWrapPlace": "30",
+          "DefaultInvAmountSymbol": "true",
+          "InvLnSymbol": " ",
+          "InvTotSymbol": " "
+        }
+      ]
+    }
+  ]
+}
